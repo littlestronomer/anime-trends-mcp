@@ -16,6 +16,12 @@ The dataset consists of metadata from the **Danbooru 2024** dataset, containing:
 - **Time Range**: 2005-2024 (with some data extending into 2025)
 - **Size**: Millions of artwork entries
 
+and the dataset consists of metadata from the **Anime Character Dataset**, containing:
+- **Source**: [https://www.kaggle.com/datasets/sazzadsiddiquelikhon/anime-character-database-july-2025](https://www.kaggle.com/datasets/sazzadsiddiquelikhon/anime-character-database-july-2025) on Hugging Face
+- **Fields Used**: 
+  - `name`: name of the characters
+- **Size**: over 200.000 characters
+
 The dataset is downloaded automatically when running `main.ipynb` (requires Hugging Face authentication token).
 
 ## Data Science Insights
