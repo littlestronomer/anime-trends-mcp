@@ -1,0 +1,4 @@
+.env
+.cache/
+charts/
+metadata.parquet
