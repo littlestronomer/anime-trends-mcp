@@ -2,6 +2,10 @@
 
 A data science project analyzing anime character popularity trends from Danbooru artwork metadata, with an MCP (Model Context Protocol) server that enables interactive exploration of the dataset through LLM conversations.
 
+## 🎥 Project Demo
+
+### [▶️ Click here to watch the full demo video](demo.mp4)
+
 ## Overview
 
 This project explores anime character popularity trends using metadata from Danbooru, one of the largest anime artwork databases. The analysis reveals insights about character lifecycles, trait evolution, and cultural trends in anime fandom. The MCP server exposes these insights as interactive tools that can be accessed through LLM assistants like Claude.
