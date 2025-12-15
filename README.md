@@ -4,7 +4,7 @@ A data science project analyzing anime character popularity trends from Danbooru
 
 ## 🎥 Project Demo
 
-### [▶️ Click here to watch the full demo video](demo.mp4)
+### [▶️ Click here to watch the full demo video](https://youtu.be/I9_UkmrUQV8)
 
 ## Overview
 
